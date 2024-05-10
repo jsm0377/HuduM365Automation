@@ -10,7 +10,7 @@
             }
         },
         "repoUrl": {
-            "defaultValue": "https://github.com/lwhitelock/HuduM365Automation.git",
+            "defaultValue": "https://github.com/jsm0377/HuduM365Automation.git",
             "type": "string",
             "metadata": {
                 "description": "Repository URL to use"
